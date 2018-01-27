@@ -35,6 +35,10 @@
 
 使うだけならものすごく簡単
 
-```js
-
+```html
+<link rel="import" href="../emoji-rain/emoji-rain.html">
+...
+<emoji-rain active></emoji-rain>
 ```
+
+インストール方法はいろいろあるが、今現在は[諸事情](./bower.md)ではBowerが多い
