@@ -110,8 +110,6 @@ ES Module|Stable|Stable|Stable|フラグで有効|Stable
 
 ## ES Modules
 
-> Belugaチームにはおなじみ`import`と`export`
-
 HTMLで別のJSファイルの中身を読み込みたい
 
 ### 昔: `<script>`タグ
