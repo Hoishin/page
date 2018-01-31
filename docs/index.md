@@ -85,13 +85,13 @@ shadowRoot.innerHTML = '<h1>Hello Shadow DOM</h1>';
 - Web Componentの規格に則れば、フレームワーク関係なくなんでも使える
 
 ## ブラウザ対応
-|規格|Chrome|Opera|Safari|Firefox|Edge|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Custom Elements|Stable|Stable|Stable|Polyfill(開発中)|Polyfill(検討中)|
-|Shadow DOM|Stable|Stable|Stable|Polyfill(開発中)|Polyfill(検討中)|
-|HTML Imports|Stable|Stable|Polyfill(保留)|Polyfill(保留)|Polyfill(検討中)|
-|HTML Template|Stable|Stable|Stable|Stable|Stable|
-|ES Module|Stable|Stable|Stable|フラグで有効|Stable|
+|規格            |Chrome|Opera |Safari        |Firefox        |Edge           |
+|:-------------:|:----:|:----:|:------------:|:-------------:|:-------------:|
+|Custom Elements|Stable|Stable|Stable        |Polyfill(開発中)|Polyfill(検討中)|
+|Shadow DOM     |Stable|Stable|Stable        |Polyfill(開発中)|Polyfill(検討中)|
+|HTML Imports   |Stable|Stable|Polyfill(保留)|Polyfill(保留)  |Polyfill(検討中)|
+|HTML Template  |Stable|Stable|Stable        |Stable         |Stable         |
+|ES Module      |Stable|Stable|Stable        |フラグで有効     |Stable         |
 
 ## Polymer
 
